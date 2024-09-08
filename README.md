@@ -46,7 +46,7 @@ You can also set up the local dev server here (WIP): https://github.com/natclark
 
 ## Keys
 
-Use your own Alchemy or Infura keys by creating a file called `keys.swift` in the `Shared (App and Extension)` directory. The filename is added to .gitignore so won't be committed. 
+Use your own [Alchemy](https://www.alchemy.com/) or [Infura](https://www.infura.io/) keys by creating a file called `keys.swift` in the `Shared (App and Extension)` directory. The filename is added to .gitignore so won't be committed. 
 
 ```swift
 // Shared (App and Extension)/keys.swift
